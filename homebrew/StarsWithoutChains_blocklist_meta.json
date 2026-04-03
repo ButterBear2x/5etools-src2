@@ -1,0 +1,194 @@
+{
+    "_meta": {
+        "sources": [
+            {
+                "json": "BLOCKLIST",
+                "abbreviation": "BLOCK",
+                "full": "My Blocklist",
+                "version": "1"
+            }
+        ]
+    },
+    "blocklist": [
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-ACfaS"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "ABH"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-BD"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-BtS"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "BQGT"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-DaS"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-DotSC"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "XDMG"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "XScreen"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "EFA"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "FFotR"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-FWtVC"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "FRAiF"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "FRHoF"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "HotB"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "HFDoMM"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "HBTD"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "LFL"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "XMM"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "NF"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "XPHB"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "XSAC"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "ScoEE"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-SD"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "WttHC"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-TDoN"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-TFV"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "DrDe-TWoO"
+        },
+        {
+            "displayName": "*",
+            "hash": "*",
+            "category": "*",
+            "source": "UtHftLH"
+        }
+    ]
+}
